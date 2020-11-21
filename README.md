@@ -3,9 +3,7 @@ This app download all images from the site
 
 ## Usage
 
-1. Clone the repository for yourself
-	* git clone https://github.com/boreman-code/Images-Downloader.git
-2. Place ImagesDownloader.java in your project
+1. Place ImagesDownloader.java in your project
 
 ### Code example 
 ```java
